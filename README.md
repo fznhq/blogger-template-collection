@@ -1,2 +1,2 @@
-# blogger-template-collection
+# Blogger Template Collection
 Blogger Template Collection
